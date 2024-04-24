@@ -65,5 +65,6 @@ if(isset($_POST['login'])){
         <a href="register.php">التسجيل</a>
     </div>
     <div>hi</div>
+    
 </body>
 </html>
